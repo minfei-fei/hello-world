@@ -1,3 +1,11 @@
-# hello-world
-Just another repository
-Minfei is a second year Ph.D. student at the Department of Materials Science and Metallurgy, University of Cambridge.
+# Education
+## University of Cambridge
+Ph.D., Materials Science and Metallurgy 
+## Rice University
+Academic Visitor, Materials Science and NanoEngineering 
+Master, Materials Science and NanoEngineering, Rice University
+## Nanjing University
+B.Eng. with Outstanding Grauduate Award, New Energy Science and Engineering 
+## Pacific Northwest National Laboratory
+Undergraduate Visiting Researcher 
+
