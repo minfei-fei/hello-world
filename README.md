@@ -1,3 +1,9 @@
+![微信图片_20210819135417](https://user-images.githubusercontent.com/73742009/130071800-242ad6ae-2a0f-4387-ab91-a8e2576d23e8.jpg)
+# Minfei Fei
+### I am a second year Ph.D. student at the University of Cambridge, supervised by [Prof. R Vasant Kumar](https://www.mcg.msm.cam.ac.uk/people/AS/dr-vasant-kumar), [Prof. Cate Ducati](https://www.emg.msm.cam.ac.uk/People/cd251) and [Prof. Manish Chhowalla](https://scholar.google.com/citations?hl=en&user=4XsuGh4AAAAJ). Before that, I received my Master's degree from Rice University with [Prof. Pulickel Ajayan](https://ajayan.rice.edu/pulickel-ajayan.html), ranked top in class of 2019 cohort. I obtained my Bachelor's degree with Outstanding Graduate Award (~Summa Cum Laude) from Nanjing University, working with [Prof. Jianguo Liu](https://eng.nju.edu.cn/intl/3d/7f/c34798a474495/page.htm) and [Prof. Peng Wang](https://wangstem.com/). I was an Undergraduate Visiting Researcher at DOE's Pacific Northwest National Laboratory, working under an EMSL User Proposal with [Dr. Scott Chambers](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5554), [Dr. Chongmin Wang](https://scholar.google.com/citations?user=k0568hsAAAAJ&hl=en) and Ph.D. student [Yang He](http://mse.ustb.edu.cn/shiziduiwu/shiziduiwu/cailiaoxuexi/2020-05-25/248.html)(now Professor at USTB).
+
+### Recently, I am also working closely with [Prof. Jia Zhu](https://nanoenergy.nju.edu.cn/)NJU), [Prof. Guoran Li](https://scholar.google.com/citations?hl=en&user=VP00V08AAAAJ)(Nankai) and Dr. Kai Xi (Now Professor at Xi'an Jiao Tong U.).
+
 ## Education & Training
 ![cambridge logo](https://user-images.githubusercontent.com/73742009/130071409-78b9fae8-efb2-452d-b772-33c9f86480cf.png)
 #### University of Cambridge
