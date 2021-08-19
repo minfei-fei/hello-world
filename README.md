@@ -27,7 +27,21 @@ Bachelor's (Outstanding Graduate Award), New Energy Science and Engineering
 Undergraduate Visiting Researcher
 
 ## Experiences
-#### National Institute for Advanced Materials (China)
+#### National Institute for Advanced Materials
 Graudate Visiting Researcher
 #### Rice University
 Academic Visitor, Materials Science and NanoEngineering 
+
+## Selected Publications
+* Denotes corresponding author
+9.  (In preparation) M. Fei and J. Zhu*, et. al. Reviving silicon anode via solid-electrolyte-interface manipulation.
+8.  (In preparation) M. Fei, G. Li* and R.V. Kumar*, et. al. A more stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.
+7.  (In preparation) M. Fei, P.M. Ajayan*, et. al. Effect of fictionalization on electrocatalytic and electrical double layer properties of multi-wall carbon nanotubes.
+6.  (In preparation) S. Cui, M. Fei, X. Wu, G. Li*, et. al. Constructing robust ion-conductive interface in hetero-structured gel polymer electrolyte for high-energy Li-metal       battery.
+5.  (In preparation) X. Wu, M. Fei, S. Cui, G. Li*, et. al. Lithium metal anode protection through inverse opal structure TiO2 film.
+4.  (In preparation) H. Wang, Z. Wang, M. Fei, S. Liu*, X. Gao*, et. al. A high energy density quasi solid state lithium sulfur battery.
+3.  (To be submitted) B.N. Jaato, M. Fei, et. al. A comprehensive study of Ag3PO4-based materials and their applications. 
+2.  A.B. Puthirat*, S.N. Shirodkar, M. Fei, A. Baburaj, K. Kato, S.K. Saju, R. Prasannachandran, N. Chakingal, R. Vajtai, B.I. Yakobson and P.M. Ajayan*. Complementary behaviour     of EDL and HER activity in functionalized graphene nanoplatelets. Nanoscale, 12, 1790 (2020). [pdf]
+1.  K. Sun, J. Li, F. Wang, W. He, M. Fei, Z. Lu, H. Zhang, J. Liu* and Z. Zou. Highly enhanced durability of a graphitic carbon layer decorated PtNi3 alloy electrocatalyst         toward the oxygen reduction reaction. Chem. Commun., 55, 5693 (2019). [pdf]
+
+
