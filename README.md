@@ -24,7 +24,7 @@ Master's, Materials Science and NanoEngineering
 Bachelor's (Outstanding Graduate Award), New Energy Science and Engineering 
 | 2013-2017
 
-<img align="left" src="https://user-images.githubusercontent.com/73742009/130193805-e715d705-db11-4213-9a28-f856964d906f.png" width="60"> 
+<img align="left" src="https://user-images.githubusercontent.com/73742009/130193805-e715d705-db11-4213-9a28-f856964d906f.png" width="60" height="70"> 
 
 #### Pacific Northwest National Laboratory
 Undergraduate Visiting Scholar
