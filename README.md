@@ -1,11 +1,9 @@
-<img align="left" src="https://user-images.githubusercontent.com/73742009/130071800-242ad6ae-2a0f-4387-ab91-a8e2576d23e8.jpg" width="300" height="420">
+<img align="left" src="https://user-images.githubusercontent.com/73742009/130071800-242ad6ae-2a0f-4387-ab91-a8e2576d23e8.jpg" width="300" height="400">
 
 ## Minfei Fei
-#### mf689 [at] cam [dot] ac [dot] uk | Department of Materials Science & Metallurgy, University of Cambridge
+##### mf689 [at] cam [dot] ac [dot] uk | Dept of Materials Science & Metallurgy, U. Cambridge
 #### I am a second year Ph.D. student at the University of Cambridge, supervised by [Prof. R Vasant Kumar](https://www.mcg.msm.cam.ac.uk/people/AS/dr-vasant-kumar), [Prof. Cate Ducati](https://www.emg.msm.cam.ac.uk/People/cd251) and [Prof. Manish Chhowalla](https://scholar.google.com/citations?hl=en&user=4XsuGh4AAAAJ). Before that, I received my Master's degree from Rice University with [Prof. Pulickel Ajayan](https://ajayan.rice.edu/pulickel-ajayan.html), ranked top in class of 2019 cohort. I obtained my Bachelor's degree with Outstanding Graduate Award (~Summa Cum Laude) from Nanjing University, working with [Prof. Jianguo Liu](https://eng.nju.edu.cn/intl/3d/7f/c34798a474495/page.htm) and [Prof. Peng Wang](https://wangstem.com/). I was an Undergraduate Visiting Researcher at DOE's Pacific Northwest National Laboratory, working under an EMSL User Proposal with [Dr. Scott Chambers](https://www.pnnl.gov/science/staff/staff_info.asp?staff_num=5554), [Dr. Chongmin Wang](https://scholar.google.com/citations?user=k0568hsAAAAJ&hl=en) and Ph.D. student [Yang He](http://mse.ustb.edu.cn/shiziduiwu/shiziduiwu/cailiaoxuexi/2020-05-25/248.html) (now Professor at USTB).
-
 #### Recently, I am also working closely with [Prof. Jia Zhu](https://nanoenergy.nju.edu.cn/) (NJU), [Prof. Guoran Li](https://scholar.google.com/citations?hl=en&user=VP00V08AAAAJ) (Nankai) and [Dr. Kai Xi](https://www.mcg.msm.cam.ac.uk/people/ra/kaixi) (Now Professor at Xi'an Jiao Tong U.).
-
 
 ### Education & Training
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130071409-78b9fae8-efb2-452d-b772-33c9f86480cf.png" width="60">
@@ -64,4 +62,20 @@ Academic Visitor, Materials Science and NanoEngineering
 1.  K. Sun, J. Li, F. Wang, W. He, M. Fei, Z. Lu, H. Zhang, J. Liu* and Z. Zou. Highly enhanced durability of a graphitic carbon layer decorated PtNi3 alloy electrocatalyst         toward the oxygen reduction reaction. Chem. Commun., 55, 5693 (2019). [pdf]
 
 ### Talks & Presentations
+* Denotes corresponding author
+15. (To be presented) M. Fei, et. al. Electron Microscopy Group Seminar, University of Cambridge, U.K., Mar 9th 2022
+14. (To be presented) M. Fei, et. al. Round-Table Seminar Presentation, University of Cambridge, U.K., Jan 26th 2022
+13. (To be presented) M. Fei, et. al. Round-Table Seminar Presentation, University of Cambridge, U.K., Nov 17th 2021
+12. (To be presented) M. Fei, G. Li* and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI”, Departmental Poster Presentation, Department of Materials Science and Metallurgy, University of Cambridge, U.K., Oct 29th 2021
+11. (To be presented) M. Fei, K. Xi, M. Chhowalla, C. Ducati, G. Li* and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI”, International Battery Materials Association (IBA)-2021 Conference, Xiamen, China, Oct 24-29th 2021
+10. M. Fei, M. Chhowalla, C. Ducati*, G. Li* and R.V. Kumar*. “High performance anode strategy in Li based batteries: Li metal anode and Si based anode”, Round-Table Seminar Presentation, University of Cambridge, U.K., July 28th 2021
+9.  M. Fei and J. Zhu*. “Functional biomaterials: driving force and pursuits” (Invited), Photothermal Manipulation Research Center, Nanjing University, China, July 24th 2021
+8.  M. Fei, G. Li* and R.V. Kumar*. “A more stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI”, Postgraduate Seminars Day, University of Cambridge, U.K., June 28th 2021
+7.  M. Fei, G. Li* and R.V. Kumar*. “Anode protection mechanism in Li metal batteries”, Electron Microscopy Group Seminar, University of Cambridge, U.K., May 5th 2021
+6.  A. Durbuis, M. Fei* and R.V. Kumar*. “Thermal Conductivity gas sensor on a semiconductor chip”, Mid-Term Dissertation Presentation Day, M.Phil. in Micro and Nano-technology Enterprise Program, University of Cambridge, U.K., June 17th 2020
+5.  J. Campkin, M. Fei* and R.V. Kumar*. “Adaptation and investigation of a MEMS TCD to enhance its gas sensing properties”, Final Poster Presentation, Part III NST Natural Science, University of Cambridge, U.K., April 18th 2020
+4.  J. Campkin, M. Fei* and R.V. Kumar*. “Adaptation and investigation of a MEMS TCD to enhance its gas sensing properties”, Mid-Term Poster Presentation, Part III NST Natural Science, University of Cambridge, U.K., Nov 2019
+3.  M. Fei and P.M. Ajayan*. “Electrochemical performance of functionalized grapheme nano platelets & multi-wall carbon nanotubes”, Department of Materials Science and NanoEngineering, Rice University, U.S., Jan 2019
+2.  M. Fei, K. Sun, J. Liu* and Z. Zou. “Synthesis and performance of low cost electrocatalyst for HER”, National Laboratory of Solid State Microstructures, China, May 2017
+1.  M. Fei, X. Qiao, L. Zhu, X. Li and P. Wang*. “Synthesis and performance analysis of doped g-C3N4 2D materials”, National Undergraduate Training Program for Innovation & Entrepreneurship, Nanjing University, China, June 2016
 
