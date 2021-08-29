@@ -46,7 +46,7 @@ Graudate Visiting Researcher
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130069268-0fc4333d-5e21-4ea8-8d76-8af6d0854fe6.png" width="60"> 
 
 #### Rice University
-Academic Visitor, Materials Science and NanoEngineering 
+Academic Visitor
 | 2019
 
 ### Teaching & Supervision
