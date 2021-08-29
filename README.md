@@ -104,13 +104,13 @@ Practical Demonstrator & Grader, Lent 2020
 
 ### Talks & Presentations
 * Denotes corresponding author
-12.	M. Fei, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” Cambridge Department of Materials Science and Metallurgy Poster Presentation. October 29th 2021. Cambridge, U.K. (To be presented)
-11.	M. Fei, K. Xi, M. Chhowalla, C. Ducati, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” International Battery Materials Association (IBA)-2021 Conference. October 24 - 29th 2021. Xiamen, China. (To be presented)
-10.	M. Fei, M. Chhowalla, C. Ducati*, G. Li*, and R.V. Kumar*. “High performance anode strategy in Li based batteries: Li metal anode and Si based anode.” Round-Table Seminar Presentation, University of Cambridge. July 28th 2021. Cambridge, U.K.
-9.	M. Fei, and J. Zhu*. “Functional biomaterials: driving force and pursuits.” Nanjing University Photothermal Manipulation Research Center. July 24th 2021. Nanjing, China.
-8.	M. Fei, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” Postgraduate Seminars Day, University of Cambridge. June 28th 2021. Cambridge, U.K.
-7.	M. Fei, G. Li*, and R.V. Kumar*. “Anode protection mechanism in Li metal batteries.” Cambridge Electron Microscopy Group Seminar. May 5th 2021. Cambridge, U.K.
-6.	A. Durbuis, M. Fei*, and R.V. Kumar*. “Thermal Conductivity gas sensor on a semiconductor chip.” Mid-Term Dissertation Presentation Day, M.Phil. in Micro and Nano-technology Enterprise Program, University of Cambridge. June 17th 2020. Cambridge, U.K.
+12.	**M. Fei**, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” Cambridge Department of Materials Science and Metallurgy Poster Presentation. October 29th 2021. Cambridge, U.K. (To be presented)
+11.	**M. Fei**, K. Xi, M. Chhowalla, C. Ducati, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” International Battery Materials Association (IBA)-2021 Conference. October 24 - 29th 2021. Xiamen, China. (To be presented)
+10.	**M. Fei**, M. Chhowalla, C. Ducati*, G. Li*, and R.V. Kumar*. “High performance anode strategy in Li based batteries: Li metal anode and Si based anode.” Round-Table Seminar Presentation, University of Cambridge. July 28th 2021. Cambridge, U.K.
+9.	**M. Fei**, and J. Zhu*. “Functional biomaterials: driving force and pursuits.” Nanjing University Photothermal Manipulation Research Center. July 24th 2021. Nanjing, China.
+8.	**M. Fei**, G. Li*, and R.V. Kumar*. “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.” Postgraduate Seminars Day, University of Cambridge. June 28th 2021. Cambridge, U.K.
+7.	**M. Fei**, G. Li*, and R.V. Kumar*. “Anode protection mechanism in Li metal batteries.” Cambridge Electron Microscopy Group Seminar. May 5th 2021. Cambridge, U.K.
+6.	A. Durbuis, **M. Fei***, and R.V. Kumar*. “Thermal Conductivity gas sensor on a semiconductor chip.” Mid-Term Dissertation Presentation Day, M.Phil. in Micro and Nano-technology Enterprise Program, University of Cambridge. June 17th 2020. Cambridge, U.K.
 5.	J. Campkin, M. Fei*, and R.V. Kumar*. “Adaptation and investigation of a MEMS TCD to enhance its gas sensing properties.” Final Poster Presentation, Part III NST Natural Science, University of Cambridge. April 18th 2020. Cambridge, U.K.
 4.	J. Campkin, M. Fei*, and R.V. Kumar*. “Adaptation and investigation of a MEMS TCD to enhance its gas sensing properties.” Mid-Term Poster Presentation, Part III NST Natural Science, University of Cambridge. November 2019. Cambridge, U.K.
 3.	M. Fei, and P.M. Ajayan*. “Electrochemical performance of functionalized grapheme nano platelets & multi-wall carbon nanotubes.” Rice University Department of Materials Science and NanoEngineering. January 2019. Houston TX, U.S.
