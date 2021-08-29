@@ -9,19 +9,19 @@ mf689 [at] cam [dot] ac [dot] uk | Dept of Materials Science & Metallurgy, U. Ca
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130071409-78b9fae8-efb2-452d-b772-33c9f86480cf.png" width="60">
 
 #### University of Cambridge
-Ph.D., Materials Science and Metallurgy
+Ph.D., Materials Science & Metallurgy
 | 2019-Expected 2023
 
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130069268-0fc4333d-5e21-4ea8-8d76-8af6d0854fe6.png" width="60"> 
 
 #### Rice University
-Master's, Materials Science and NanoEngineering
+Master's, Materials Science & NanoEngineering
 | 2017-2019
 
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130193490-814ffacd-0e50-44c4-a874-67d93aae74bb.jpg" width="60"> 
 
 #### Nanjing University
-Bachelor's (Outstanding Graduate Award), New Energy Science and Engineering 
+Bachelor's (Outstanding Graduate Award), New Energy Science & Engineering 
 | 2013-2017
 
 <img align="left" src="https://user-images.githubusercontent.com/73742009/130193805-e715d705-db11-4213-9a28-f856964d906f.png" width="60" height="70"> 
