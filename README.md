@@ -62,15 +62,15 @@ Grade ≥70% denotes Distinction/First Class in U.K. grading system
 	 Project: Synthesis and characterization of silicon anode materials for lithium ion batteries
 3. Yingyu Mao, Meiying Lv, Xue Jiang, and Mingxuanze Zhu, B.S. in Materials Chemistry, Nankai University\
 	 National Undergraduate Training Program for Innovation (co-supervision), Spring 2021\
-	 Project: Synthesis of MoS3 and its application in solid state lithium-sulfur batteries
+	 Project: Synthesis of MoS3 and its application in solid state lithium-sulfur batteries.
 4. Aurian Durbuis, M.Phil. in Micro and Nanotechnology Enterprise, University of Cambridge\
 	 M.Phil. Dissertation Supervision (Distinction with 93%, ranked 1st in the M.Phil. Nano. Program), Easter 2020
-	 M.Phil. Thesis: Thermal conductivity gas sensor on a semiconductor chip
+	 M.Phil. Thesis: Thermal conductivity gas sensor on a semiconductor chip.
 5. Aurian Durbuis, M.Phil. in Micro & Nanotechnology Enterprise, University of Cambridge\
 	 SciComm Research Supervision (Distinction with 80%), Lent 2020
 6. James Campkin, Part III NST Materials Science, Fitzwilliam College, University of Cambridge\
 	 M.Sc. Thesis Project Supervision (Distinction with 74%), Lent 2020\
-	 M.Sc. Thesis: Adaptation and investigation of a micro electromechanical thermal conductivity detector to enhance its gas sensing properties
+	 M.Sc. Thesis: Adaptation and investigation of a micro electromechanical thermal conductivity detector to enhance its gas sensing properties.
 
 #### Teaching
 (Demonstrator/Grader for Faculty of Mathematics & Dept. of Materials Science and Metallurgy, U. Cambridge)
