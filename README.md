@@ -88,17 +88,18 @@ Grade ≥70% denotes Distinction/First Class in U.K. grading system
 
 ### Selected Publications
 ‡ Denotes equal contribution * Denotes corresponding author
-1.  (In preparation) X. Min, J. Li, **M. Fei**, B. Zhu, and J. Zhu*, *et. al.* “Protection of frozen soil and glacier based on radiative cooling technique.”
-2.  (In preparation) B. Zhu‡, **M. Fei‡**, and J. Zhu*, *et. al.* “Silicon anode and ….”
-3.  (In preparation) **M. Fei**, B. Zhu*, and J. Zhu*, *et. al.* “Reviving silicon anode via solid-electrolyte-interface manipulation.”
-4.  (In preparation) **M. Fei**, H. Wang, S. Cui, X. Wu, R. Tomov, K. Xi, M. Chhowalla, C. Ducati, G. Li*, and R.V. Kumar*, *et. al.* “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.”
-5.  (In preparation) **M. Fei**, and P.M. Ajayan*, *et. al.* “Effect of fictionalization on electrocatalytic and electrical double layer properties of multi-wall carbon nanotubes.”
-6.  (In preparation) X. Wu, **M. Fei**, S. Cui, and G. Li*, *et. al.* “Lithium metal anode protection through inverse opal structure TiO2 film.”
-7.  (In preparation) H. Wang, Z. Wang, **M. Fei**, S. Liu*, and X. Gao*, *et. al.* “A high energy density quasi solid state lithium sulfur battery.”
-8.  (To be submitted) B.N. Jaato, **M. Fei**, *et. al.* “A comprehensive study of Ag3PO4-based materials and their applications.”
-9.  S. Cui, **M. Fei**, X. Wu, and G. Li*, *et. al.* “Hetero-Structured Gel Polymer Electrolyte Homogenizing Ion Transport and Stabilizing Lithium Anode Interface for Long-Cycle and High-Energy Quasi-Solid-State Lithium Metal Batteries.” **Adv. Energy Mater.**, under review.
-10. A.B. Puthirat*, S.N. Shirodkar, **M. Fei**, A. Baburaj, K. Kato, S.K. Saju, R. Prasannachandran, N. Chakingal, R. Vajtai, B.I. Yakobson, and P.M. Ajayan*. “Complementary behaviour of EDL and HER activity in functionalized graphene nanoplatelets.” **Nanoscale**, 12, 1790 (2020). [pdf]
-11. K. Sun, J. Li, F. Wang, W. He, **M. Fei**, Z. Lu, H. Zhang, J. Liu*, and Z. Zou. “Highly enhanced durability of a graphitic carbon layer decorated PtNi3 alloy electrocatalyst toward the oxygen reduction reaction.” **Chem. Commun.**, 55, 5693 (2019). [pdf]
+First Author
+1.  (I submission)  X. Wang‡, **M. Fei‡**, M. Zhang, G. Liu, B. Zhu*, J. Zhou, Y. Hao, and J. Zhu*, *et. al.* “Graphene-based covalent encapsulation for highly stable silicon-oxide lithium battery anodes.”
+2.  In preparation) **M. Fei**, B. Zhu*, and J. Zhu*, *et. al.* “Reviving silicon anode via solid-electrolyte-interface manipulation.”
+3.  In submission) **M. Fei**, H. Wang, S. Cui, X. Wu, R. Tomov, K. Xi, M. Chhowalla, C. Ducati, G. Li*, and R.V. Kumar*, *et. al.* “A stable lithium anode via separator engineering and in-situ electrolyte additive tuned SEI.”
+4.  In preparation) **M. Fei**, and P.M. Ajayan*, *et. al.* “Effect of fictionalization on electrocatalytic and electrical double layer properties of multi-wall carbon nanotubes.”
+5.  In preparation) X. Min, J. Li, **M. Fei**, B. Zhu, and J. Zhu*, *et. al.* “Protection of frozen soil and glacier based on radiative cooling technique.”
+6.  In preparation) X. Wu, **M. Fei**, S. Cui, and G. Li*, *et. al.* “Lithium metal anode protection through inverse opal structure TiO2 film.”
+7.  In preparation) H. Wang, Z. Wang, **M. Fei**, S. Liu*, and X. Gao*, *et. al.* “A high energy density quasi solid state lithium sulfur battery.”
+8.  To be submitted) B.N. Jaato, **M. Fei**, *et. al.* “A comprehensive study of Ag3PO4-based materials and their applications.”
+9.  Under review) S. Cui, **M. Fei**, X. Wu, and G. Li*, *et. al.* “Hetero-Structured Gel Polymer Electrolyte Homogenizing Ion Transport and Stabilizing Lithium Anode Interface for Long-Cycle and High-Energy Quasi-Solid-State Lithium Metal Batteries.” **Adv. Energy Mater.**
+10. .B. Puthirat*, S.N. Shirodkar, **M. Fei**, A. Baburaj, K. Kato, S.K. Saju, R. Prasannachandran, N. Chakingal, R. Vajtai, B.I. Yakobson, and P.M. Ajayan*. “Complementary behaviour of EDL and HER activity in functionalized graphene nanoplatelets.” **Nanoscale**, 12, 1790 (2020). [pdf]
+11. . Sun, J. Li, F. Wang, W. He, **M. Fei**, Z. Lu, H. Zhang, J. Liu*, and Z. Zou. “Highly enhanced durability of a graphitic carbon layer decorated PtNi3 alloy electrocatalyst toward the oxygen reduction reaction.” **Chem. Commun.**, 55, 5693 (2019). [pdf]
 
 ### Talks & Presentations
 ‡ Denotes equal contribution * Denotes corresponding author
